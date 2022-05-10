@@ -1,0 +1,11 @@
+{
+  "name": "What is carried over ?",
+  "icon": "minecraft:stone",
+  "category": "dejavu:introduction",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The Déjà-vu can carry objects from a connected universe into another : objects similar to collectable items, living or static entities and tiles-like objects carried over as blocks. The connection procedure and future universes that would be connected are mostly unpredictable. Our task is to document all connected universes that we can."
+    }
+  ]
+}

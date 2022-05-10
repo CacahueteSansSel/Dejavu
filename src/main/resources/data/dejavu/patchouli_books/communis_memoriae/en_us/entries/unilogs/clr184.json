@@ -1,0 +1,35 @@
+{
+  "name": "'clr184'",
+  "icon": "dejavu:undocumented_ball",
+  "category": "dejavu:unilogs",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'clr184' is the least known universe of all, at the time of writing. We do not know anything about this universe except for the only two objects it provides."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/universes/none.png"
+      ],
+      "border": true,
+      "text": "No photograph is available for this universe : use your imagination !"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "List of objects brought by Déjà-vu in our world : $(br)$(list)$(item)Oscillating Crystal$() $(list)$(item)Colorful Lamp$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:oscillating_crystal_recipe",
+      "title": "The Oscillating Crystal",
+      "text": "A quartz crystal capable of providing an oscillating energy signal. (In our world, energy is redstone)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:colorful_lamp_recipe",
+      "recipe2": "dejavu:colorful_lamp_recipe_torch_pack",
+      "title": "The Colorful Lamp"
+    }
+  ]
+}

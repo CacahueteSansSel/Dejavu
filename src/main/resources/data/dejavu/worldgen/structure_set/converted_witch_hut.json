@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dejavu:converted_witch_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 128,
+    "separation": 64,
+    "salt": 767267637
+  }
+}

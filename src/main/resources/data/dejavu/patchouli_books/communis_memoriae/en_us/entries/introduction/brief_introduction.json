@@ -1,0 +1,11 @@
+{
+  "name": "A brief introduction",
+  "icon": "minecraft:grass_block",
+  "category": "dejavu:introduction",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The Déjà-vu is an inter-universe connection, meaning that it is connecting universes together. It can adapt objects/entities from an universe into another, with some notable alterations. The existence of the Déjà-vu connection is not known to everyone, as you will see in another chapter."
+    }
+  ]
+}

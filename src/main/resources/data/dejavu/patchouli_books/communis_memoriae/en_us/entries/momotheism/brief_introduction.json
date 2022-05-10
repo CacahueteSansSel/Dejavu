@@ -1,0 +1,15 @@
+{
+  "name": "A brief introduction",
+  "icon": "dejavu:momo_ritual_object",
+  "category": "dejavu:momotheism",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Momotheism$() is a cult based around $(thing)Momo$(), a superior entity supposed to be able to control the world. This entity is in fact not real, and cult-acclaimed ritual responses are coming from an external, Déjà-vu-connected universe."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "People within this cult are called $(thing)the Momotheists$(). They are mostly villagers who leave their villages in favor of the Momotheists Village, to study the religion full-time."
+    }
+  ]
+}

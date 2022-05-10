@@ -1,0 +1,38 @@
+{
+  "name": "'laboratory73'",
+  "icon": "dejavu:undocumented_ball",
+  "category": "dejavu:unilogs",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'laboratory73' is an universe that is rarely connected to ours. The presence of the 'busy' sign can explain the lack of communication. It is a very complex facility, secured by many security guards. It adds one block, and three items."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/universes/laboratory73.png"
+      ],
+      "border": true,
+      "text": "A photograph of the 'laboratory73' universe. We can note this big 'busy' sign."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "List of objects brought by Déjà-vu in our world : $(br)$(list)$(item)Card reader$() $(list)$(item)White access card$() $(list)$(item)Red access card$() $(list)$(item)Black access card$() $(list)$(item)Card reader programmer$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Card Reader",
+      "text": "It is a simple RFID card reader that outputs energy when activated with the right access card. In our world, this energy is a $(thing)redstone signal$(). It can't be crafted. They are usually found in Momotheists villages, see the appropriate chapter 'Momotheism'."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Access cards",
+      "text": "These are access cards that works with the $(item)Card Reader$(). Access cards' levels go from white, red, to black. White is the least, black is the most. Those can't be crafted. They are usually found in Momotheists villages, see the appropriate chapter 'Momotheism'."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Card Reader Programmer",
+      "text": "Sets the required level for a card reader. Found in Momotheists villages."
+    }
+  ]
+}

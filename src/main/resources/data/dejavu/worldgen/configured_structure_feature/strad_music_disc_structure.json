@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "dejavu:strad_music_disc_structure",
+    "size": 1
+  },
+  "biomes": "#minecraft:is_beach",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

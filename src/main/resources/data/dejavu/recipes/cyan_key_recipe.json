@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "keys",
+  "pattern": [
+    "R",
+    "S",
+    "D"
+  ],
+  "key": {
+    "R": {
+      "item": "dejavu:rubidium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "D": {
+      "item": "dejavu:diamond_shard"
+    }
+  },
+  "result": {
+    "item": "dejavu:cyan_key",
+    "count": 1
+  }
+}

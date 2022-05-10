@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dejavu:block/momo_pillar_top",
+    "side": "dejavu:block/momo_pillar"
+  }
+}

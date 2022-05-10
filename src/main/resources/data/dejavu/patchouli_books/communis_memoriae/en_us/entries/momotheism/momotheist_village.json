@@ -1,0 +1,95 @@
+{
+  "name": "Momotheists Villages",
+  "icon": "dejavu:momo_pillar",
+  "category": "dejavu:momotheism",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)The Momotheists Villages$() are villages that are entirely dedicated to the Momotheism Cult and reserved only for confirmed Momotheists. These villages can be found frequently in any forest."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/momotheist_village.png"
+      ],
+      "border": true,
+      "text": "The photograph of a momotheist village."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "These villages contains many components that are assigned to a task."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/checkpoint.png"
+      ],
+      "border": true,
+      "title": "Checkpoint",
+      "text": "Contains a card reader and access cards from the $(thing)laboratory73$() universe."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/dorm.png"
+      ],
+      "border": true,
+      "title": "Dorm",
+      "text": "Where the Momotheists sleep. There is also a campfire inside."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/farm.png"
+      ],
+      "border": true,
+      "title": "Common Farm",
+      "text": "You can find wheat here, and momoroses. A farmer is usually inside."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/cult_area.png"
+      ],
+      "border": true,
+      "title": "Momotheist Cathedral",
+      "text": "The cult area, where you can find $(thing)Momobibles$() and cult tables."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/house.png"
+      ],
+      "border": true,
+      "title": "The Priviledged House",
+      "text": "Where priviledged individuals lives. Contains a bed and many bookshelves."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/panic_room.png"
+      ],
+      "border": true,
+      "title": "The Panic Room",
+      "text": "Where everyone meet up when a problem occurs. Contains a set of armor ready to battle !"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/storage_room.png"
+      ],
+      "border": true,
+      "title": "The Storage Room",
+      "text": "The storage of the village, you can find cool stuff inside, like diamonds."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/outpost.png"
+      ],
+      "border": true,
+      "title": "The Defense Outpost",
+      "text": "Someone always defend the village right here. The Momotheists aren't the most beloved ones."
+    }
+  ]
+}

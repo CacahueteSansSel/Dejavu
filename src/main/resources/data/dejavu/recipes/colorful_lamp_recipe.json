@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "GOB",
+    " L "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:red_stained_glass_pane"
+    },
+    "G": {
+      "item": "minecraft:lime_stained_glass_pane"
+    },
+    "B": {
+      "item": "minecraft:blue_stained_glass_pane"
+    },
+    "O": {
+      "item": "dejavu:oscillating_crystal"
+    },
+    "L": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "dejavu:colorful_lamp",
+    "count": 1
+  }
+}

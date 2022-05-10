@@ -1,0 +1,15 @@
+{
+  "name": "About photographs",
+  "icon": "minecraft:paper",
+  "category": "dejavu:introduction",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "When you begin to read the unilogs, you will see that we include photographs of the described universe. But how we manage to do that ? Simply put, as objects are transferred from an universe into another, we are simply sending a camera into the targeted universe. Hopefully, the camera comes back, but it is not always the case..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The connection quality to an universe can vary depending on multiple factors. If the quality is low, we basically just lost another camera. So if you see a unilog without photographs, you know why."
+    }
+  ]
+}

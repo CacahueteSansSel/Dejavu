@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "P"
+  ],
+  "key": {
+    "S": {
+      "item": "dejavu:sleep_seal"
+    },
+    "P": {
+      "item": "dejavu:momo_bible_page"
+    }
+  },
+  "result": {
+    "item": "dejavu:sleep_ritual_passage",
+    "count": 1
+  }
+}

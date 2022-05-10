@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dejavu:momorose_farm",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 8,
+    "salt": 493890898
+  }
+}

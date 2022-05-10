@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "keys",
+  "pattern": [
+    "R",
+    "S",
+    "L"
+  ],
+  "key": {
+    "R": {
+      "item": "dejavu:rubidium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "dejavu:brown_key",
+    "count": 1
+  }
+}

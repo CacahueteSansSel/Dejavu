@@ -1,0 +1,60 @@
+{
+  "name": "Rituals",
+  "icon": "dejavu:momo_ritual_object",
+  "category": "dejavu:momotheism",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "With $(item)the Momobible$(), you can do rituals in order to give yourself health, heal your insomnia, or do other things. Each ritual needs a stamped momobible page that will be fed to the ritual table."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/momobible.png"
+      ],
+      "title": "The Momobible",
+      "border": true,
+      "text": "Right-click to extract a blank page, used for crafting passages."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/momotable.png"
+      ],
+      "title": "Momo's Ritual Table",
+      "border": true,
+      "text": "They are found in cult locations such as the Momotheists Cathedral. They are used for rituals."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:health_seal_recipe",
+      "recipe2": "dejavu:sleep_seal_recipe",
+      "title": "Stamps"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:speculose_seal_recipe",
+      "text": "The health ritual gives you health. The sleep ritual heals your insomnia. The speculose ritual gives you speculose biscuit !"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:health_ritual_passage",
+      "recipe2": "dejavu:sleep_ritual_passage",
+      "title": "Ritual Passages"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:speculose_ritual_passage",
+      "text": "Right-click with these ritual passages on a $(item)Momo's Ritual Table$() (with the $(item)ritual object$()) to activate the ritual."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/stamps.png"
+      ],
+      "title": "Ritual related objects",
+      "border": true,
+      "text": "Ritual stamps, ritual passages, and the ritual table, inside a Momotheists Cathedral."
+    }
+  ]
+}

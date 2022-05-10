@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "dejavu:block/cyan_door_top",
+    "bottom": "dejavu:block/cyan_door_bottom"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Our universe",
+  "icon": "minecraft:crafting_table",
+  "category": "dejavu:introduction",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "From previous research, our own world is named 'Minecraft', and it is, like others, currently connected by the Déjà-vu to another universes. Universes log, or as we call it, unilogs, contains all universes that we discovered with every objects identified. See the appropriate chapter."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/universes/minecraft.png"
+      ],
+      "border": true,
+      "text": "A photograph of our universe, Minecraft"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dejavu:strad_music_disc_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 16,
+    "salt": 92782789
+  }
+}

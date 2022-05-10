@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "dejavu:block/momo_ritual_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dejavu:block/momo_ritual_table"
+    },
+    "facing=south": {
+      "model": "dejavu:block/momo_ritual_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dejavu:block/momo_ritual_table",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "dejavu:rubidium_block",
+    "dejavu:rubidium_ore",
+    "dejavu:deepslate_rubidium_ore",
+    "dejavu:cyan_door",
+    "dejavu:brown_door",
+    "dejavu:momo_pillar",
+    "dejavu:momo_bricks",
+    "dejavu:momo_ritual_table",
+    "dejavu:card_reader"
+  ]
+}

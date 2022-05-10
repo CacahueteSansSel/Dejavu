@@ -1,0 +1,40 @@
+{
+  "name": "'white2'",
+  "icon": "dejavu:undocumented_ball",
+  "category": "dejavu:unilogs",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "It is the first universe we discovered : white2, also called whiteII in older texts. It is a very distant world that we are very frequently in connection with. From what we have seen, it is an universe containing colorful animals that are 'equipped' with unknown 'superpowers'. Two items and one block are coming from this universe."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/universes/white2.png"
+      ],
+      "border": true,
+      "text": "A photograph of the 'white2' universe, in the best quality we have"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "List of objects brought by Déjà-vu in our world : $(br)$(list)$(item)Cyan door$() $(list)$(item)Cyan key$() $(list)$(item)Undocumented ball$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:cyan_key_recipe",
+      "title": "The Cyan Key",
+      "text": "The cyan key opens the cyan door, also coming from this universe. It is made from diamonds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dejavu:cyan_door_recipe",
+      "title": "The Cyan Door",
+      "text": "The cyan door cannot be opened by redstone, and can't be broken by a tool. It can only be opened by the cyan key."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Undocumented Ball",
+      "text": "As the name suggests, this ball is undocumented and it's usage is unknown. It represents well the idea of 'unknownness', thus it is used as an icon for every unilog and universe, by default."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dejavu:block/deepslate_rubidium_ore"
+  }
+}

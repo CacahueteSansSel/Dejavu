@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PCP",
+    "DPD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:wheat"
+    },
+    "P": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "dejavu:speculose_seal",
+    "count": 1
+  }
+}

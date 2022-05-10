@@ -1,0 +1,10 @@
+{
+  "record.group": {
+    "sounds": [
+      {
+        "name": "dejavu:record/group",
+        "stream": true
+      }
+    ]
+  }
+}

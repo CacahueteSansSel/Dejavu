@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRS"
+  ],
+  "key": {
+    "R": {
+      "item": "dejavu:rubidium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dejavu:rubidium_horn",
+    "count": 1
+  }
+}

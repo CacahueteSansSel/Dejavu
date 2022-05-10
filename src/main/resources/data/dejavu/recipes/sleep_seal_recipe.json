@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PCP",
+    "DPD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:black_wool"
+    },
+    "P": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "C": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "dejavu:sleep_seal",
+    "count": 1
+  }
+}

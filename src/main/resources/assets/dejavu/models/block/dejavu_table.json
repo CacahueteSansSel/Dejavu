@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "dejavu:block/dejavu_table_front",
+    "north": "dejavu:block/dejavu_table_side",
+    "south": "dejavu:block/dejavu_table_side",
+    "east": "dejavu:block/dejavu_table_front",
+    "west": "dejavu:block/dejavu_table_front",
+    "up": "dejavu:block/dejavu_table_top",
+    "down": "dejavu:block/dejavu_table_bottom"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "dejavu",
+  "version": "${version}",
+  "name": "Déjà Vu",
+  "description": "Connect your universe to another",
+  "authors": [
+    "CacahueteDev"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/dejavu/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.cacahuetedev.dejavu.client.DejavuClient"
+    ],
+    "main": [
+      "io.cacahuetedev.dejavu.Dejavu"
+    ]
+  },
+  "mixins": [
+    "dejavu.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}

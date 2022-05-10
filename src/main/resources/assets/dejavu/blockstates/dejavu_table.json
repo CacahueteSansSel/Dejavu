@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dejavu:block/dejavu_table"
+    }
+  }
+}

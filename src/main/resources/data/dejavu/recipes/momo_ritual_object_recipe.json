@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SMS",
+    "MSM",
+    "SMS"
+  ],
+  "key": {
+    "M": {
+      "item": "dejavu:momo_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dejavu:momo_ritual_object",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "'Minceraft'",
+  "icon": "dejavu:undocumented_ball",
+  "category": "dejavu:unilogs",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Minceraft is a distant universe that is the 'almost perfect mirror copy' of our world, 'Minecraft'. It brings only one material : $(item)the Rubidium Ore$(), fully integrated into our world like other ores like coal for example."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/universes/minceraft.png"
+      ],
+      "border": true,
+      "text": "A photograph of the 'Minceraft' universe, in the best quality we have"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "dejavu:textures/book/rubidium_tools.png"
+      ],
+      "border": true,
+      "text": "Every rubidium tools imported from this universe. They are the perfect intermediate between the iron, and the diamond."
+    }
+  ]
+}

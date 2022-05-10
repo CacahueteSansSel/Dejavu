@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "Q",
+    "B"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "B": {
+      "item": "dejavu:rubidium"
+    }
+  },
+  "result": {
+    "item": "dejavu:oscillating_crystal",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "keys",
+  "pattern": [
+    " R ",
+    "RDR",
+    " B "
+  ],
+  "key": {
+    "R": {
+      "item": "dejavu:rubidium"
+    },
+    "D": {
+      "item": "minecraft:iron_door"
+    },
+    "B": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "dejavu:brown_door",
+    "count": 1
+  }
+}
